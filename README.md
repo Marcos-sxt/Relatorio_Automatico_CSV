@@ -1,4 +1,4 @@
-### Projetos de Automação
+### Projeto de Automação
 
 #### Automatização de Extração e Análise de Dados Financeiros
 
